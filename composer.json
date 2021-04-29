@@ -1,6 +1,6 @@
 {
-    "name": "rareloop/lumberjack-core",
-    "description": "A powerful MVC framework for the modern WordPress developer. Write better, more expressive and easier to maintain code",
+    "name": "muppet1906/lumberjack-core",
+    "description": "Fork with Timber 2.0 support.",
     "license": "MIT",
     "require": {
         "php": ">=7.1.0",
