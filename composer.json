@@ -10,7 +10,7 @@
         "psr/http-message": "^1.0",
         "psr/http-server-middleware": "^1.0",
         "blast/facades": "^1.0",
-        "timber/timber": "^1.7",
+        "timber/timber": "^2.0",
         "monolog/monolog": "^1.23",
         "http-interop/response-sender": "^1.0",
         "symfony/debug": "^4.1",
@@ -44,5 +44,7 @@
         "psr-4": {
             "Rareloop\\Lumberjack\\Test\\": "tests"
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
