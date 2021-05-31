@@ -3,7 +3,7 @@
     "description": "Fork with Timber 2.0 support.",
     "license": "MIT",
     "require": {
-        "php": ">=7.1.0",
+        "php": ">=7.4",
         "php-di/php-di": "^6.0.0",
         "rareloop/router": "^4.4.0",
         "psr/container": "^1.0",
